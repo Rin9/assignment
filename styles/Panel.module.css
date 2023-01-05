@@ -1,0 +1,10 @@
+.container {
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  color: #000;
+  height: 100vh;
+}
