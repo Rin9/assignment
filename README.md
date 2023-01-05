@@ -1,6 +1,6 @@
 ## Getting Started
 
-First, run install app:
+First, run script to install app:
 
 ```bash
 npm install
@@ -22,7 +22,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Location: pages/api
 
-Api usage:
+API usage:
 
 "/rewards" : get all transactions with rewards
+
 "/rewards/[userID]" : get transactions with rewards by userID
